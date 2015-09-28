@@ -5,6 +5,6 @@ Titolo
 
 prova
 
-
+per scanf
 
 Francesco
