@@ -7,7 +7,3 @@ Sottotitolo
 **boldico**
 
 prova
-
-per scanf
-
-Francesco
