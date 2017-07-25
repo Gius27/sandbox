@@ -5,5 +5,3 @@ Sottotitolo
 -----------
 
 **boldico**
-
-prova
